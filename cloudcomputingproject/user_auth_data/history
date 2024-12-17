@@ -1,0 +1,223 @@
+  394  cd /
+  395  cd home
+  396  cd Desktop
+  397  cd administrator
+  398  cd Desktop
+  399  mkdir user_auth_data
+  400  mkdir january
+  401  mkdir february
+  402  mkdir march
+  403  mkdir april
+  404  mkdir may
+  405  mkdir june
+  406  mkdir july
+  407  mkdir august
+  408  mkdir september
+  409  mkdir october
+  410  mkdir novmber
+  411  mkdir decmember
+  412  cd january
+  413  authlogsday1
+  414  touch authlogsday1
+  415  touch authlogsday2
+  416  cd ..
+  417  cd february
+  418  cd ..
+  419  cd ap
+  420  touch authlogsday1
+  421  cd ..
+  422  cd april
+  423  touch authlogsday1
+  424  cd ..
+  425  cd may
+  426  touch authlogsday1
+  427  cd ..
+  428  cd june
+  429  touch authlogsday1
+  430  cd ..
+  431  cd july
+  432  cd ..
+  433  cd july
+  434  touch authlogsday1
+  435  cd ..
+  436  cd august
+  437  touch authlogsday1
+  438  cd ..
+  439  cd september
+  440  touch authlogsday1
+  441  cd ..
+  442  cd october
+  443  touch authlogsday1
+  444  cd ..
+  445  cd november
+  446  cd novmber
+  447  touch authlogsday1
+  448  cd ..
+  449  cd december
+  450  cd decmember
+  451  touch authlogsday1
+  452  cd..
+  453  cd ..
+  454  clear
+  455  cd /
+  456  cd home
+  457  cd administrator
+  458  cd Desktop
+  459  cd user_auth_data
+  460  mkdir january
+  461  mkdir february
+  462  mkdir march
+  463  mkdir april
+  464  mkdir may
+  465  mkdir june
+  466  mkdir july
+  467  mkdir august
+  468  mkdir september
+  469  mkdir october
+  470  mkdir november
+  471  mkdir december
+  472  cd january
+  473  touch athulogsday1
+  474  cd ..
+  475  cd february
+  476  touch athulogsday1
+  477  cd ..
+  478  cd mar
+  479  touch athulogsday1
+  480  cd ..
+  481  cd april
+  482  touch athulogsday1
+  483  cd ..
+  484  cd may
+  485  touch athulogsday1
+  486  cd ..
+  487  cd june
+  488  touch athulogsday1
+  489  cd ..
+  490  cd july
+  491  touch athulogsday1
+  492  cd ..
+  493  cd august
+  494  touch athulogsday1
+  495  cd ..
+  496  cd september
+  497  touch athulogsday1
+  498  cd ..
+  499  cd october
+  500  touch athulogsday1
+  501  cd ..
+  502  cd november
+  503  touch athulogsday1
+  504  cd ..
+  505  cd december
+  506  touch athulogsday1
+  507  cd ..
+  508  cd january
+  509  touch athulogsday1
+  510  mv touch athulogsday1 feburay
+  511  cd ..
+  512  mv athulogsday1 feburay
+  513  mv athulogsday1 february
+  514  cd january
+  515  mv athulogsday1 february
+  516  mv athulogsday1 authulogsday1backup
+  517  cd  athulogsday1
+  518  cd athulogsday1
+  519  cd ..
+  520  cd feburary
+  521  cd february
+  522  cd athulogsday1
+  523  cd ..
+  524  ls
+  525  touch athuconfig.txt
+  526  cd /
+  527  cd home
+  528  cd administrator
+  529  cd Desktop
+  530  cd user_auth_data
+  531  ls
+  532  ls -l
+  533  rm athuconfig.txt
+  534  rm decmber
+  535  rm december
+  536  rm -rdecmember
+  537  rm -e december
+  538  rm -r october
+  539  ls
+  540  history
+  541  mkdir backup
+  542  mkdir backuplogdata
+  543  /
+  544  cat /
+  545  vim
+  546  ls
+  547  january
+  548  march
+  549  a
+  550  \
+  551  ch mode
+  552  chmode
+  553  vim file.txt
+  554  cat file.txt
+  555  nano script sh
+  556  cd backup
+  557  ls
+  558  ls -l
+  559  chmod +x script.sh
+  560  ./script.sh
+  561  vim file1.txt
+  562  top
+  563  cd /
+  564  cd home
+  565  cd administrator
+  566  cd Desktop
+  567  ls
+  568  cd user_auth_data
+  569  ls
+  570  ls -l
+  571  history
+  572  cat >file.txt
+  573  cat file.txt
+  574  vim file.txt
+  575  history
+  576  chomd
+  577  ll
+  578  file.name
+  579  ls
+  580  ll
+  581  file.txt
+  582  chomd file.txt
+  583  vim file.txt
+  584  cd ..
+  585  mkdir cloudcomputingproject 
+  586  cd user_auth_data
+  587  cd ..
+  588  mv -r cloudcomputingproject user_athu_data
+  589  mv -r cloudcomputingproject/home/administrator/Desktop/user
+  590  mv -r cloudcomputingproject/home/administrator/Desktop/user_auth_data
+  591  mv cloudcomputingproject/home/administrator/Desktop/user_auth_data
+  592  cat >file.txt
+  593  cat >>file.txt
+  594  cd /
+  595  cd home
+  596  cd administrator
+  597  cd Desktop
+  598  cat file.txt
+  599  cat >grep file.txt
+  600  cd cloudcomputingproject
+  601  cd user_auth_data
+  602  cat file.txt
+  603  cat >>file.txt
+  604  cat file.txt
+  605  nano file.txt
+  606  cat file1.txt
+  607  cat >.file1.txt
+  608  cat file.txt|wc-l|
+  609  cd /
+  610  cd home
+  611  cd administrator
+  612  cd Desktop
+  613  cd cloudcomputingproject
+  614  cd user_auth_data
+  615  history
+
